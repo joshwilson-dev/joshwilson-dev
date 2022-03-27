@@ -25,9 +25,7 @@ If you would like to purchase an A5 bird drawing from below, donate $20 and
 write which drawing you'd like and your postal address as a comment when
 donating :)
 </p>
-<p align="center">
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=A26JQV6MF4S2N&no_recurring=1&currency_code=AUD)
-</p>
 <p align="center">
 <a href="https://github.com/joshwilson-dev">
     <img src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings.svg" height="200">
