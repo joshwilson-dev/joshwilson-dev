@@ -39,4 +39,4 @@ donating 😊
 
 | <div style="width:290px">property</div> | description                           |
 | --------------------------------------- | ------------------------------------- |
-| `border-bottom-right-radius`            | Defines the shape of the bottom-right |
+| <img width="1604" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/greater-sand-plover-add.png"> | Defines the shape of the bottom-right |
