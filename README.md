@@ -37,6 +37,6 @@ donating 😊
 <img width="1604" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/greater-sand-plover-add.png">
 | -->
 
-| <div style="width:100px">property</div> | description                           |
+| <div style="width:500px">property</div> | description                           |
 | --------------------------------------- | ------------------------------------- |
 | <img width="300" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/greater-sand-plover-add.png"> | Defines the shape of the bottom-right |
