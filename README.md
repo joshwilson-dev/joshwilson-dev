@@ -29,7 +29,7 @@ donating 😊
 </p>
 <!-- | --------------------------------------- | ------------------------------------- | ------------------------------------- |
 | <img width="300" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/red-necked-avocet-add.png"> | <img width="300" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/scarlet-robin-add.png"> | <img width="300" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/greater-sand-plover-add.png">| -->
-<!-- <div style="width:500px">property</div> -->
-|  |  |  |
+
+| property | description | description |
 | --------------------------------------- | ------------------------------------- | ------------------------------------- |
 | <img width="300" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/greater-sand-plover-add.png"> | <img width="300" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/scarlet-robin-add.png"> | <img width="300" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/greater-sand-plover-add.png">
