@@ -27,9 +27,9 @@ donating 😊
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=A26JQV6MF4S2N&no_recurring=1&currency_code=AUD)
 </p>
-| --------------------------------------- | ------------------------------------- | ------------------------------------- |
-| <img width="300" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/red-necked-avocet-add.png"> | <img width="300" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/scarlet-robin-add.png"> | <img width="300" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/greater-sand-plover-add.png">|
+<!-- | --------------------------------------- | ------------------------------------- | ------------------------------------- |
+| <img width="300" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/red-necked-avocet-add.png"> | <img width="300" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/scarlet-robin-add.png"> | <img width="300" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/greater-sand-plover-add.png">| -->
 
-<!-- | <div style="width:500px">property</div> | description                           |
+| <div style="width:500px">property</div> | description                           |
 | --------------------------------------- | ------------------------------------- |
-| <img width="300" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/greater-sand-plover-add.png"> | Defines the shape of the bottom-right | -->
+| <img width="300" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/greater-sand-plover-add.png"> | <img width="300" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/scarlet-robin-add.png"> | <img width="300" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/greater-sand-plover-add.png">
