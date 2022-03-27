@@ -17,11 +17,7 @@
 </a>
 </p>
 
-[
-  ![Donate with PayPal]
-  (https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)
-]
-(https://www.paypal.com/donate/?business=A26JQV6MF4S2N&no_recurring=1&currency_code=AUD)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=A26JQV6MF4S2N&no_recurring=1&currency_code=AUD)
 
 <h2 align="center">Artwork for Sale!</h2>
 <p align="center">
