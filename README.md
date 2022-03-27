@@ -30,9 +30,9 @@ donating 😊
 | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |
-<img width="1604" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/red-necked-avocet-add.png">  Red-Necked Avocet
+<img width="1604" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/red-necked-avocet-add.png">
 |
-<img width="1604" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/scarlet-robin-add.png"> Scarlet Robin
+<img width="1604" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/scarlet-robin-add.png">
 |
-<img width="1604" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/greater-sand-plover-add.png"> Greater Sand Plover
+<img width="1604" src="https://github.com/joshwilson-dev/joshwilson-dev/blob/main/images/drawings/greater-sand-plover-add.png">
 |
